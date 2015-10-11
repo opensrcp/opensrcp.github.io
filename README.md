@@ -1,2 +1,3 @@
 # opensrcp.github.io
-website
+
+You can find the website at: http://opensrcp.github.io/
